@@ -8,16 +8,13 @@ import java.util.Random;
 import javax.swing.JFrame;
 
 /**
- * The {@code Tetris} class is responsible for handling much of the game logic and
- * reading user input.
- * @author Brendan Jones
+kds 주석 한글화 작업으로 수정함 와 대박이다 ㄷㄷ
  *
  */
 public class Tetris extends JFrame {
 	
 	/**
 	 * The Serial Version UID.
-	 */
 	private static final long serialVersionUID = -4722429764792514382L;
 
 	/**
